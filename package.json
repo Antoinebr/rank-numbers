@@ -1,6 +1,6 @@
 {
   "name": "rank-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a ranking from integer or / and floats",
   "main": "index.js",
   "scripts": {

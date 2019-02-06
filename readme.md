@@ -16,14 +16,14 @@ Require the module :
 const {createRanking,getRank} = require('rank-numbers');
 ```
 
-Create a ranking first : 
+Create a overall ranking first : 
 
 ```JavaScript 
 const myRanking = createRanking([1, 9, 10, 9, 7, 1, 1];
 // myRanking === {"1": 4,"7": 3,"9": 2,"10": 1}
 ```
 
-Get the rannking in a secondtime :
+Get the ranking for a specific value in a secondtime :
 
 ```JavaScript
 const theRanking = getRank(10,myRanking);
