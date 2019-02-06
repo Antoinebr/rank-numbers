@@ -1,0 +1,15 @@
+{
+  "name": "rank-numbers",
+  "version": "1.0.0",
+  "description": "Create a ranking from integer or / and floats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "antoinebr",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
